@@ -1,4 +1,4 @@
-# Watched, Waiting & To Watch Shows List | Last Update: Jun 21 2022
+# Watched, Waiting & To Watch Shows List | Last Update: Aug 22 2022
 
 ### COMPLETED:
 Show Title		| # of Seasons		| Date
@@ -14,6 +14,7 @@ Dark			| 3 Seasons		| March 2021
 Squid Game		| 1 Season		| Octover 2021
 Another Life		| 2 Seasons		| April 2022
 Lost in Space		| 3 Seasons		| June 2022
+Locke & Key     | 3 Seasons   | August 2022
 ---------------------------------------------------------------------
 ### WAITING FOR NEXT SEASON:
 Show Title		| Season Waiting-For	| Planed Release Year	| Date of Previous Completion
