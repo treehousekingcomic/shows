@@ -19,9 +19,10 @@ Locke & Key             | 3 Seasons             | August 2022
 ### WAITING FOR NEXT SEASON:
 Show Title		| Season Waiting-For	| Planed Release Year	| Date of Previous Completion
 ----------------------- | --------------------- | --------------------- | ---------------------------
-Snowpiercer 		| Waiting for Season 4 	| (2023) 		          | (S2c: Apr21) (S3c: Mar22)
-Ragnarok 		    | Waiting for Season 3 	| 2022-(2023)			    | (S2c: Jun21)
-Manifest 		    | Waiting for Season 4 	| Fall (2022)			    | (S2c: Jul21) (S3c: Oct21)
+Snowpiercer 		    | Waiting for Season 4 	| (2023) 		          | (S2c: Apr21) (S3c: Mar22)
+Ragnarok 		        | Waiting for Season 3 	| 2022-(2023)			    | (S2c: Jun21)
+Manifest 		        | Waiting for Season 4 	| Fall (2022)			    | (S2c: Jul21) (S3c: Oct21)
+Money Heist: Korea  | Waiting for Season 2  | Summer (2023)       | (S1c: Sep22)
 
 
 ### TO WATCH:
