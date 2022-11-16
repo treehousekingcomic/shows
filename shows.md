@@ -15,6 +15,7 @@ Squid Game		          | 1 Season		          | Octover 2021
 Another Life		        | 2 Seasons		          | April 2022
 Lost in Space		        | 3 Seasons		          | June 2022
 Locke & Key             | 3 Seasons             | August 2022
+Travelers               | 3 Seasons             | 2022
 ---------------------------------------------------------------------
 ### WAITING FOR NEXT SEASON:
 Show Title		| Season Waiting-For	| Planed Release Year	| Date of Previous Completion
