@@ -1,4 +1,4 @@
-# Watched, Waiting & To Watch Shows List | Last Update: Aug 22 2022
+# Watched, Waiting & To Watch Shows List | Last Update: Nov 27 2022
 
 ### COMPLETED:
 Show Title		| # of Seasons		| Date
@@ -24,7 +24,7 @@ Snowpiercer 		    | Waiting for Season 4 	| (2023) 		            | (S2c: Apr21) 
 Ragnarok 		        | Waiting for Season 3 	| 2022-(2023)			    | (S2c: Jun21)
 Manifest 		        | Waiting for Season 4 	| Fall (2022)			    | (S2c: Jul21) (S3c: Oct21)
 Money Heist: Korea  | Waiting for Season 2        | Summer (2023)            | (S1c: Sep22)
-Wednesday              | Waitng for Season 2      | Not renews yet           | (S1c: Nov22)
+Wednesday              | Waitng for Season 2      | Not renewed yet           | (S1c: Nov22)
 
 
 ### TO WATCH:
@@ -35,7 +35,7 @@ Away			        |
 The OA		      	|
 ~~Dark Matter~~		|
 Stanger Things		|
-welcome ro Eden    |
+Welcome To Eden    |
 
 ---------------------------------------------------------------------
 
